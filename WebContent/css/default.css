@@ -1,0 +1,117 @@
+@CHARSET "UTF-8";
+/*
+body
+{
+	background-color: #d5fffc;
+}
+*/
+body.bodybgcolor {
+	font: normal 11px verdana;
+	background-color: #d9fff7;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+}
+
+.STYLE1 {
+	font-size: 12px;
+}
+
+.STYLE2 {
+	color: #0080ff;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.STYLE3 {
+	font-size: 12px
+}
+
+.STYLE5 {
+	font-family: "宋体";
+	font-size: 12px;
+}
+
+.STYLE8 {
+	color: #FF0000
+}
+
+.STYLE9 {
+	font-size: 16px
+}
+
+.STYLE10 {
+	font-size: 16px;
+	color: #333333;
+}
+/*
+#Layer1 {
+	position: absolute;
+	left: 305px;
+	top: 5px;
+	width: 59px;
+	height: 39px;
+	z-index: 1;
+}
+*/
+.tableHead {
+	background-color: #fefc9a;
+}
+
+.tableHead2 {
+	background-color: #e3e7ee;
+}
+
+.tableStyle1 {
+	background-color: #def1f0;
+}
+
+.tableStyle2 {
+	background-color: #def1f0;
+}
+
+a {
+	font-size: 14px;
+	text-decoration: none;
+	color: #808080;
+}
+
+a:hover {
+	text-decoration: underline
+}
+
+.textspecial {
+	height: 100px;
+	width: 200px;
+}
+
+.frameTable {
+	width: 1323px;
+	border: 0px solid #95b9ea;;
+	align: center;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.frameTable td {
+	padding: 0;
+}
+
+.headTable {
+	width: 100%;
+	height: 46;
+	border: 0px solid #95b9ea;
+	align: center;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.headTable td {
+	padding: 0;
+}
+
+.buttonDefault{
+	background: #95b9ea;
+	color: #ffffff;
+	border:2px solid #95b9ea;
+}

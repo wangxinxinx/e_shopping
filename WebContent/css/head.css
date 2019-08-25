@@ -1,0 +1,107 @@
+@CHARSET "UTF-8";
+
+body {
+	font: normal 11px verdana;
+	background: #ffffff /*#FF9966*/;
+	/*position: absolute;*/
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style-position: outside;
+	list-style: none;
+}
+
+.head_a {
+	text-decoration: none;
+	color: #666;
+}
+
+ul#dropmenu, ul#dropmenu ul {
+	margin: 0 auto;
+	text-align: left;
+	padding: 0;
+	list-style: none;
+	z-index: 99;
+}
+
+ul#dropmenu {
+	width: 100%;
+	display: block;
+	height: 35px;
+	clear: both;
+	border: 1px solid #95b9ea;
+	text-align: center;
+	background: #fdffff;
+}
+
+ul#dropmenu li {
+	position: relative;
+	z-index: 999;
+	float: left;
+}
+
+ul#dropmenu ul li {
+	float: left;
+	display: block;
+}
+
+ul#dropmenu ul {
+	/*width: 122px;
+ w\idth: 120px;*/
+	height: auto;
+	position: absolute;
+	text-align: left;
+	left: 0px;
+	display: none;
+	border: solid 1px #ccc;
+}
+/*当鼠标在子菜单和父菜单上时，父菜单的样式*/
+ul#dropmenu li.over a, ul#dropmenu li:hover a {
+	border-color: #ccc;
+	background: #95b9ea;
+	color: #fff;
+}
+/*将子菜单的样式清除*/
+ul#dropmenu li.over ul a, ul#dropmenu li:hover ul a {
+	font-weight: normal;
+	color: #666;
+	background: #fff;;
+}
+/*子菜单的hover样式*/
+ul#dropmenu li.over ul a:hover, ul#dropmenu li:hover ul a:hover {
+	font-weight: normal;
+	color: #95b9ea;
+	font-weight: bold;
+	background: #f6f6f6;
+}
+/* Styles for Menu Items */
+ul#dropmenu a {
+	display: block;
+	padding: 0 0 0 10px;
+	width: 106px;
+	w\idth: 96px;
+	color: #666;
+	line-height: 35px;
+}
+
+ul#dropmenu ul li {
+	width: 110px;
+	border: 0;
+}
+/* End */
+ul#dropmenu ul a {
+	FILTER: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /*   透明  */
+	padding: 2px 0px 2px 10px;
+	border: 0;
+	width: 120px;
+	w\idth: 110px; /* Sub Menu Styles */
+}
+
+ul#dropmenu li:hover ul, ul#dropmenu  li.over ul {
+	display: block; /* The magic */
+}

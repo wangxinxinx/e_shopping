@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+.buyTable{
+	width:80%;
+	height:30px;
+	border:1px solid #cccfc7;
+	align: center;
+	background:#fffff0;
+}
+
+.fontStyle{
+	color:#43abe2;
+	font-size: 25px;
+}
+
+.buyAllButton{
+	background: #95b9ea;
+	color: #ffffff;
+	border:2px solid #95b9ea;
+}

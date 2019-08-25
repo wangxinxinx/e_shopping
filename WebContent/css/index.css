@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+.headTable{
+	width: 100%;
+	height: 37px;
+	
+	clear: both;
+	border: 1px solid #95b9ea;
+	background: #fdffff;
+}
+.searchText {
+	height: 30px;
+	width: 550px;
+	/*
+	border-width: 4px;
+	border-color:#95b9ea;*/
+	font-size:20px;
+	border:4px solid #95b9ea
+}
+
+.button {
+	background: #95b9ea;
+	height: 40px;
+	width: 100px;
+	color: #ffffff;
+	/*
+	border-width:4px;
+	border-color:#95b9ea;*/
+	font-size:20px;
+	border:0px solid #95b9ea;
+}
+
+.catagoryTable{
+	width:80%;
+	border:1px solid #cccfc7;
+	align: center;
+	background:#fffff0;
+	
+}
+
+.priceInput{
+	width:50px;
+}
+.submitPrice{
+	background: #95b9ea;
+	color: #ffffff;
+	border:2px solid #95b9ea;
+}
