@@ -131,30 +131,30 @@ web服务器：tomcat8
 ![图3.29 商城主界面的搜索功能](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.29.png)  
 图3.29 商城主界面的搜索功能  
 ![图3.30 购买商品界面](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.30.png)  
-图3.30 购买商品界面
+图3.30 购买商品界面  
 ![图3.31买家查看待发货的商品](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.31.png)  
-图3.31买家查看待发货的商品
+图3.31买家查看待发货的商品  
 ![图3.32 卖家查看待发货的商品](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.32.png)  
-图3.32 卖家查看待发货的商品
+图3.32 卖家查看待发货的商品  
 ![图3.33 卖家查看买家信息](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.33.png)  
-图3.33 卖家查看买家信息
+图3.33 卖家查看买家信息  
 ![图3.34 卖家查看已发货的商品](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.34.png)  
-图3.34 卖家查看已发货的商品
+图3.34 卖家查看已发货的商品  
 ![图3.35 买家查看已发货的商品](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.35.png)  
-图3.35 买家查看已发货的商品
+图3.35 买家查看已发货的商品  
 ![图3.36 买家查看交易成功的商品](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.36.png)  
-图3.36 买家查看交易成功的商品
+图3.36 买家查看交易成功的商品  
 ![图3.37 卖家查看交易成功的商品](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.37.png)  
-图3.37 卖家查看交易成功的商品
+图3.37 卖家查看交易成功的商品  
 ![图3.38 买家查看退款中的商品](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.38.png)  
-图3.38 买家查看退款中的商品
+图3.38 买家查看退款中的商品  
 ![图3.39 卖家查看请求退款的商品](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.39.png)  
-图3.39 卖家查看请求退款的商品
+图3.39 卖家查看请求退款的商品  
 ![图3.40 买家查看交易取消的商品](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.40.png)  
-图3.40 买家查看交易取消的商品
+图3.40 买家查看交易取消的商品  
 ![图3.41 买家删除订单后的界面](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.41.png)  
-图3.41 买家删除订单后的界面
+图3.41 买家删除订单后的界面  
 ![图3.42 卖家账单](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.42.png)  
-图3.42 卖家账单
+图3.42 卖家账单  
 ![图3.43 买家订单](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.43.png)  
-图3.43 买家订单
+图3.43 买家订单  
