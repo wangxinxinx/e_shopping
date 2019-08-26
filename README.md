@@ -19,8 +19,8 @@
     2. 商品管理：添加商品，修改商品信息，删除商品；
     3. 卖家订单管理：查看和修改订单状态。
 #### 1.1.2.核心业务的业务流程图
-本系统的核心业务是购物，购物的业务流程图如图3.1所示。  
-![图3.1 购物的业务流程图](https://github.com/wangxinxinx/e_shopping/blob/master/images/3.1.png)
+本系统的核心业务是购物，购物的业务流程图如图3.1所示。    
+![图3.1 购物的业务流程图](https://github.com/wangxinxinx/e_shopping/blob/master/images/3.1.png)  
 图3.1 购物的业务流程图
 #### 1.1.4.数据流说明
 分析得，该系统的数据流图如图3.2所示。
@@ -28,7 +28,7 @@
 图3.2 网上销售系统的数据流图
 ### 1.2.概念设计
 由需求分析可得该系统的E-R图如图3.3所示，由于属性较多，就没有在E-R图中画出属性。
-![图3.3 网上销售系统的E-R图](https://github.com/wangxinxinx/e_shopping/blob/master/images/3.3.png)
+![图3.3 网上销售系统的E-R图](https://github.com/wangxinxinx/e_shopping/blob/master/images/3.3.png)  
 图3.3 网上销售系统的E-R图
 
 ## 2.系统总体设计
