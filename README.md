@@ -48,6 +48,7 @@ web服务器：tomcat8
 ### 3.1.注册
 用户注册界面如图6.1所示。先注册3个用户，以下测试中设定buy为买家，sell和sell2为卖家。然后手工录入一些数据，每个表的数据如图6.2-6.7所示，product表有32条记录，没有全部展现出来。
 
+![图6.1 注册界面](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.1.png)
 图6.1 注册界面
 
 图6.2 shop表数据
@@ -65,6 +66,7 @@ web服务器：tomcat8
 图6.7 bill表数据
 ### 3.2.登录
 登录界面如图6.8所示。buy用户登录后，商城主界面如图6.9所示。
+![图6.8 登录界面](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.8.png)
 
 图6.8 登录界面
 
