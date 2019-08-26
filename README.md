@@ -68,7 +68,7 @@ web服务器：tomcat8
 
 
 ### 3.2.登录
-登录界面如图6.8所示。buy用户登录后，商城主界面如图6.9所示。
+登录界面如图6.8所示。buy用户登录后，商城主界面如图6.9所示。  
 ![图6.8 登录界面](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.8.png)
 
 
