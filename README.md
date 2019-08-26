@@ -156,5 +156,5 @@ web服务器：tomcat8
 图3.41 买家删除订单后的界面  
 ![图3.42 卖家账单](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.42.png)  
 图3.42 卖家账单  
-![图3.43 买家订单](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.43.png)  
-图3.43 买家订单  
+![图3.43 买家账单](https://github.com/wangxinxinx/e_shopping/blob/master/images/6.43.png)  
+图3.43 买家账单  
